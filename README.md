@@ -10,9 +10,9 @@ I'm a software developer based in Taiwan. I enjoy coding open-source projects th
 I like to coding and building various projects relate to Front-end fields. 
 Slightly obsessed with js, Redux and Typescript .
 
-🔭  I’m currently using redux, redux-saga, typescript and Reactjs for building Financial website.😉
-🌱  I’m currently learning redux, redux-saga, typescript. 
-💬  Ask me about anything related to Javascript/Typescript or React/Express 
+-🔭  I’m currently using redux, redux-saga, typescript and Reactjs for building Financial website.😉
+-🌱  I’m currently learning redux, redux-saga, typescript. 
+-💬  Ask me about anything related to Javascript/Typescript or React/Express 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AnsonLoHK=urekd&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnsonLoHK&layout=compact&theme=Gradient&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
