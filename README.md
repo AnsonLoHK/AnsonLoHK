@@ -1,4 +1,7 @@
 
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://media.giphy.com/media/astF7CQZMoncz2xzp1/giphy.gif)
+
+
 &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/AnsonLoHK?logo=github&style=for-the-badge)]([[https://github.com/CyrisXD](https://github.com/AnsonLoHK)](https://github.com/AnsonLoHK))
 
 # 👋 &nbsp;Hi there
