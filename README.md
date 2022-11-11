@@ -11,9 +11,9 @@ I like to coding and building various projects relate to Front-end fields.
 Slightly obsessed with Reactjs, Redux and Typescript .
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AnsonLoHK=urekd&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnsonLoHK&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnsonLoHK&layout=compact&theme=Gradient&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnsonLoHK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🧰 &nbsp;My toolbox
 
