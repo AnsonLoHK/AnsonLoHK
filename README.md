@@ -10,12 +10,8 @@ I'm a software developer based in Taiwan. I enjoy coding open-source projects th
 I like to coding and building various projects relate to Front-end fields. 
 Slightly obsessed with Reactjs, Redux and Typescript .
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urekd&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-![](https://raw.githubusercontent.com/AnsonLoHK/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AnsonLoHK/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/AnsonLoHK/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AnsonLoHK/github-stats/master/generated/languages.svg#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urekd&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AnsonLoHK=urekd&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnsonLoHK&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧰 &nbsp;My toolbox
 
