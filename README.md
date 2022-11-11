@@ -6,9 +6,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in Taiwan. I enjoy coding open-source projects that understand the front-end technique.
-I like to coding and building various projects relate to Front-end fields. 
-Slightly obsessed with js, Redux and Typescript .
+I'm a software developer based in Taiwan. I enjoy coding open-source projects, it would help me to understand the front-end technique. I like to coding and building various projects relate to Front-end fields. Slightly obsessed with js, Redux and Typescript . 
 
 
 - 🔭 &nbsp;I’m currently using redux, redux-saga, typescript and Reactjs for building Financial website. :wink:
